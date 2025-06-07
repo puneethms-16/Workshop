@@ -1,0 +1,39 @@
+% 8. Develop a LaTeX script to demonstrate the presentation of Numbered theorems, definitions,
+% corollaries, and lemmas in the document.
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath,amssymb,amsthm}
+\newtheorem{theorm}{Theorm}[section]
+\newtheorem{lemma}[theorm]{Lemma}
+\newtheorem{definition}[theorm]{Definition}
+\newtheorem{corollary}[theorm]{Corollary}
+\begin{document}
+\title{demonstring the number Theorm lemma definition corollary}
+\author{Puneeth MS}
+\date{\today}
+\maketitle
+\section*{Introdaction}
+in this we are create the mathematicale theorm definition lemma corollary
+\section{Theorms,lemma,corollary,and definition}
+\subsection*{Theorm Example}
+\begin{theorm}
+if \(a\) and \(b\) are the reale number then thire sum is
+\[a + b = b + a. \]  
+\end{theorm}
+\subsection*{lemma Example}
+\begin{lemma}
+    let \(a\) and \(b\) are real number,if \( a + b = 0\),then \( b = -a \). 
+\end{lemma}
+\subsection*{corollary Example}
+\begin{corollary}
+    if \( a + b = 0 \) and \(a=2\) then \(b = -2\)
+\end{corollary}
+\subsection*{definition Example}
+\begin{definition}
+    a number is called even if it is divaseble by 2
+    \[
+    n = 2k.
+    \]
+\end{definition}
+\section{conclusion}
+This document demonstring how the number Theorm are placed and make them efficent
+\end{document}

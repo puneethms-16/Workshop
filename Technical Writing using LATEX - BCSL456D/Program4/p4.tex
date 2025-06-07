@@ -1,0 +1,48 @@
+% 4. Develop a LaTeX script to create the Certificate Page of the Report 
+% [Use suitable commands to leave the blank spaces for user entry].
+
+\documentclass[a4paper,12pt]{report}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\begin{document}
+\begin{titlepage}
+    \centering
+    \includegraphics[width=0.2\textwidth]{puneeth1.png}\par\vspace{1cm}
+    \vspace{1cm}
+    {\large\bfseries Ciretficte of submission\par}
+    \vspace{1.5cm}
+    \begin{flushleft}
+        \large
+        this is Ciretfi the project report\par
+        \textbf{project title :\underline{\hspace{7cm}}}\par
+        is submitted by\par
+        \textbf{Student Name :\underline{\hspace{7cm}}}\par
+        of the department\par
+        \textbf{Department Nmae :\underline{\hspace{7cm}}}\par
+        in the partial fullfilement to awarde the degree of\par
+        \textbf{Degree :\underline{\hspace{7cm}}}\par
+        is bonfiled work carried by her/him under my superviouer\par
+    \end{flushleft}
+    \vspace{2cm}
+    \begin{flushright}
+        \large
+        \begin{flushright}
+            \large
+            \textbf{superviouer Name :\underline{\hspace{7cm}}}\par
+            \textbf{desiganeion Name :\underline{\hspace{7cm}}}\par
+            \textbf{Department Name :\underline{\hspace{7cm}}}\par
+            \vspace{0.5cm}
+            \large
+            Date :\underline{\hspace{7cm}}\par
+        \end{flushright}
+        \vspace{2cm}
+        \begin{center}
+            \large
+            \textbf{VTU,Belagavie}\par
+            \large
+            \textbf{Month, year}
+        \end{center}
+    \end{flushright}
+\end{titlepage}
+\end{document}

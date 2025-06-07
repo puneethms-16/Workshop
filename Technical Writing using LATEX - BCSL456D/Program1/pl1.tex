@@ -1,0 +1,22 @@
+% 1. Develop a LaTeX script to create a simple document that consists of 2 sections 
+% [Section1, Section2], and a paragraph with dummy text in each section. And also include 
+% header [title of document] and footer [institute name, page number] in the document.
+
+\documentclass{article}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{Simple Program}
+\fancyfoot[C]{Rajeev Institution of technology}
+\fancyfoot[R]{page\thepage}
+\usepackage{lipsum}
+\begin{document}
+\title{title of Documnet}
+\author{Puneeth MS}
+\date{\today}
+\maketitle
+\section{Section 1}
+\lipsum[1]
+\section{Section 2}
+\lipsum[2]
+\end{document}

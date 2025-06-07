@@ -1,0 +1,293 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{author5}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=48fc00bb072bc82696d89d0955c1727f}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{fullhash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{fullhashraw}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{bibnamehash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{authorbibnamehash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{authornamehash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{authorfullhash}{48fc00bb072bc82696d89d0955c1727f}
+      \strng{authorfullhashraw}{48fc00bb072bc82696d89d0955c1727f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Technology Journal}
+      \field{title}{LaTeX in Academic Writing}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{12\bibrangedash 21}
+      \range{pages}{10}
+    \endentry
+    \entry{author3}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3402e48ad20aec46b51fd1a626538089}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{fullhash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{fullhashraw}{3402e48ad20aec46b51fd1a626538089}
+      \strng{bibnamehash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{authorbibnamehash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{authornamehash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{authorfullhash}{3402e48ad20aec46b51fd1a626538089}
+      \strng{authorfullhashraw}{3402e48ad20aec46b51fd1a626538089}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mastering LaTeX}
+      \field{year}{2017}
+    \endentry
+    \entry{author1}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd051a2f7a5f377e3a62581b0e0f8577}{%
+           family={Doe},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LaTeX Publishing}%
+      }
+      \strng{namehash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{fullhash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{fullhashraw}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{bibnamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{authorbibnamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{authornamehash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{authorfullhash}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \strng{authorfullhashraw}{bd051a2f7a5f377e3a62581b0e0f8577}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to LaTeX}
+      \field{year}{2020}
+    \endentry
+    \entry{author6}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f72f1bf19bb1b96499fb71be3e3822d4}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{fullhash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{fullhashraw}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{bibnamehash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{authorbibnamehash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{authornamehash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{authorfullhash}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \strng{authorfullhashraw}{f72f1bf19bb1b96499fb71be3e3822d4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Methods Review}
+      \field{title}{Why LaTeX Matters}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{34\bibrangedash 50}
+      \range{pages}{17}
+    \endentry
+    \entry{author8}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=36abc6d98046449ff16c432759b3fcd6}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{fullhash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{fullhashraw}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{bibnamehash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{authorbibnamehash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{authornamehash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{authorfullhash}{36abc6d98046449ff16c432759b3fcd6}
+      \strng{authorfullhashraw}{36abc6d98046449ff16c432759b3fcd6}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Academia}
+      \field{title}{The Efficiency of LaTeX}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{22\bibrangedash 29}
+      \range{pages}{8}
+    \endentry
+    \entry{author9}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=832fb832fb082e5802d751d8570ea91f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{fullhash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{fullhashraw}{832fb832fb082e5802d751d8570ea91f}
+      \strng{bibnamehash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{authorbibnamehash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{authornamehash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{authorfullhash}{832fb832fb082e5802d751d8570ea91f}
+      \strng{authorfullhashraw}{832fb832fb082e5802d751d8570ea91f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Citation Research}
+      \field{title}{Bibliographies and Citations in LaTeX}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{90\bibrangedash 105}
+      \range{pages}{16}
+    \endentry
+    \entry{author10}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5139b19ebe525014d24b2068463f9d3a}{%
+           family={Red},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LaTeX Press}%
+      }
+      \strng{namehash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{fullhash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{fullhashraw}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{bibnamehash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{authorbibnamehash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{authornamehash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{authorfullhash}{5139b19ebe525014d24b2068463f9d3a}
+      \strng{authorfullhashraw}{5139b19ebe525014d24b2068463f9d3a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Collaborative Writing with LaTeX}
+      \field{year}{2021}
+    \endentry
+    \entry{author2}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=055f6811649a97bc3a36ff4b2581f441}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{fullhash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{fullhashraw}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{bibnamehash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{authorbibnamehash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{authornamehash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{authorfullhash}{055f6811649a97bc3a36ff4b2581f441}
+      \strng{authorfullhashraw}{055f6811649a97bc3a36ff4b2581f441}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematics}
+      \field{title}{LaTeX for Researchers}
+      \field{volume}{22}
+      \field{year}{2018}
+      \field{pages}{45\bibrangedash 59}
+      \range{pages}{15}
+    \endentry
+    \entry{author4}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=04805525cb9141ccefd05b5bd50b237c}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{fullhash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{fullhashraw}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{bibnamehash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{authorbibnamehash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{authornamehash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{authorfullhash}{04805525cb9141ccefd05b5bd50b237c}
+      \strng{authorfullhashraw}{04805525cb9141ccefd05b5bd50b237c}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Techniques in Mathematics}
+      \field{title}{Advanced LaTeX Techniques}
+      \field{volume}{34}
+      \field{year}{2021}
+      \field{pages}{123\bibrangedash 135}
+      \range{pages}{13}
+    \endentry
+    \entry{author7}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=96ad3248dabbfd8541f10af28904a721}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {TeX Publishing}%
+      }
+      \strng{namehash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{fullhash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{fullhashraw}{96ad3248dabbfd8541f10af28904a721}
+      \strng{bibnamehash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{authorbibnamehash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{authornamehash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{authorfullhash}{96ad3248dabbfd8541f10af28904a721}
+      \strng{authorfullhashraw}{96ad3248dabbfd8541f10af28904a721}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The LaTeX Companion}
+      \field{year}{2016}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
