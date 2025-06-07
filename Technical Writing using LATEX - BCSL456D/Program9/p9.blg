@@ -1,0 +1,15 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'p9.blg'
+[178] biber-MSWIN64:340> INFO - === 
+[256] Biber.pm:420> INFO - Reading 'p9.bcf'
+[430] Biber.pm:994> INFO - Found 10 citekeys in bib section 0
+[458] Biber.pm:4463> INFO - Processing section 0
+[479] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[595] bibtex.pm:1713> INFO - LaTeX decoding ...
+[624] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[760] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[760] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[760] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[760] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[769] bbl.pm:676> INFO - Writing 'p9.bbl' with encoding 'UTF-8'
+[782] bbl.pm:779> INFO - Output to p9.bbl

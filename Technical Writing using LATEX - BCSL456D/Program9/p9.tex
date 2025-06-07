@@ -1,0 +1,21 @@
+\documentclass[a4paper,12pt]{article} 
+\usepackage[utf8]{inputenc} 
+\usepackage[english]{babel} 
+\usepackage{lipsum}
+\usepackage[style=numeric, sorting=nyt]{biblatex}  
+\addbibresource{references.bib} 
+\title{Document with Citations and References} 
+\author{Hemanth S.P}  
+\date{\today} 
+
+\begin{document} 
+\maketitle 
+\section*{Introduction} 
+This is the first paragraph of the document. In this paragraph, we will cite various sources. 
+According to research the importance of LaTeX in academic writing is 
+undeniable. 
+\lipsum[1-2]
+\cite{author1,author2,author3,author4,author5,author6,author7,author8,author9,author10}
+
+\printbibliography
+\end{document}
